@@ -70,11 +70,11 @@ snail.inflate();
 //  2)
 //  Noun:       cocacola
 //  action 1:   cocacola sucks
-cocacola.suck();
+cocaCola.suck();
 //  action 2:   cocacola overloads
-cocacola.overload();
+cocaCola.overload();
 //  action 3:   cocacola sticks
-cocacola.stick();
+cocaCola.stick();
 
 //  3)
 //  Noun:       bear
@@ -106,11 +106,11 @@ rhythm.play();
 //  6)
 //  Noun:       bassdrum
 //  action 1:   bassdrum blasts
-bassdrum.blast();   
+bassDrum.blast();   
 //  action 2:   bassdrum gets muted (although its passive I think its ok)
-bassdrum.mute();
+bassDrum.mute();
 //  action 3:   bassdrum hits
-bassdrum.hit();
+bassDrum.hit();
 
 //  7)          
 //  Noun:       kangaroo

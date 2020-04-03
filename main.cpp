@@ -59,86 +59,96 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       snail     
+//  action 1:   a snail cringes
+snail.cringe();
+//  action 2:   a snail drinks
+snail.drink();
+//  action 3:   a snail inflates (to suprise)
+snail.inflate();
  
 //  2)
-//  Noun:
-//  action 1:
+//  Noun:       cocacola
+//  action 1:   cocacola sucks
+cocaCola.suck();
+//  action 2:   cocacola overloads
+cocaCola.overload();
+//  action 3:   cocacola sticks
+cocaCola.stick();
 
-//  action 2:
-
-//  action 3:
- 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun:       bear
+//  action 1:   bear hunts
+bear.hunt();
+//  action 2:   bear eats
+bear.eat();
+//  action 3:   bear hits
+bear.hit();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun:       bird
+//  action 1:   bird plays sax
+bird.playSax();
+//  action 2:   bird smokes dope
+bird.smokeDope();
+//  action 3:   bird nails
+bird.nail();
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun:       rhythm
+//  action 1:   rhythm resonates 
+rhythm.resonate();
+//  action 2:   rhythm connects
+rhythm.connect();
+//  action 3:   rhythm plays
+rhythm.play();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun:       bassdrum
+//  action 1:   bassdrum blasts
+bassDrum.blast();   
+//  action 2:   bassdrum gets muted (although its passive I think its ok)
+bassDrum.mute();
+//  action 3:   bassdrum hits
+bassDrum.hit();
 
-//  action 2:
+//  7)          
+//  Noun:       kangaroo
+//  action 1:   kangaroo jumps
+kangaroo.jump();
+//  action 2:   kangaroo kisses
+kangaroo.kiss();
+//  action 3:   kangaroo chills
+kangaroo.chill();
 
-//  action 3:
- 
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun:       pattern
+//  action 1:   pattern changes
+pattern.change();
+//  action 2:   pattern permutate
+pattern.permutate();
+//  action 3:   pattern counterpoints
+pattern.counterpoint();
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun:       phone
+//  action 1:   phone rings
+phone.ring();
+//  action 2:   phone annoys
+phone.annoy();
+//  action 3:   phone vibrates
+phone.vibrate();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun:       noun
+//  action 1:   noun makes actions
+noun.makeAction();
+//  action 2:   noun entertains
+noun.entertain();
+//  action 3:   noun illuminates
+noun.illuminate();
 
-//  action 2:
-
-//  action 3:
- 
-
+// additional change for another commit because first commit&push didnt work
 
 #endif
 
